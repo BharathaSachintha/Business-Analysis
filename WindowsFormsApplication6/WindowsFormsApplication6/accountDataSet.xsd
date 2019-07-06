@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="accountDataSet" targetNamespace="http://tempuri.org/accountDataSet.xsd" xmlns:mstns="http://tempuri.org/accountDataSet.xsd" xmlns="http://tempuri.org/accountDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="accountConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="accountConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApplication6.Properties.Settings.GlobalReference.Default.accountConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="acountdetailsTableAdapter" GeneratorDataComponentClassName="acountdetailsTableAdapter" Name="acountdetails" UserDataComponentName="acountdetailsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="accountConnectionString (Settings)" DbObjectName="account.acountdetails" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT First_Name, Last_Name, Email_Address, Telephone_Number, User_Name, Password, Conform_Password, Date_Of_Birth, Address, City, State, Zip_Code FROM acountdetails</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="accountDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="accountDataSet" msprop:Generator_UserDSName="accountDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="acountdetails" msprop:Generator_TableClassName="acountdetailsDataTable" msprop:Generator_TableVarName="tableacountdetails" msprop:Generator_TablePropName="acountdetails" msprop:Generator_RowDeletingName="acountdetailsRowDeleting" msprop:Generator_RowChangingName="acountdetailsRowChanging" msprop:Generator_RowEvHandlerName="acountdetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="acountdetailsRowDeleted" msprop:Generator_UserTableName="acountdetails" msprop:Generator_RowChangedName="acountdetailsRowChanged" msprop:Generator_RowEvArgName="acountdetailsRowChangeEvent" msprop:Generator_RowClassName="acountdetailsRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="offline">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="online">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="other">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

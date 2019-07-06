@@ -1,0 +1,187 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\C-Free\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\C-Free\Projects\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Desktop\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.customer_de.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.detadatabase.resources
+C:\Users\user\Documents\New folder\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.adminfinalre.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.adminfinalre.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.customer_de.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.detadatabase.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\version2\v4\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Database.mdf
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Database_log.ldf
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.adminfinalre.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.customer_de.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.detadatabase.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v6\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Database.mdf
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Database_log.ldf
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.adminfinalre.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.create_new_user.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.customer_de.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.detadatabase.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Home.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.loging.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl1.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.UserControls.UserControl2.resources
+C:\Users\user\Documents\version2\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Course Work\vs\v7\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
